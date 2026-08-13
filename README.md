@@ -65,7 +65,21 @@ Este projeto representa, portanto, um dos primeiros passos dessa evolução.
 
 ## 📸 Demonstração
 
-O site pode ser acessado diretamente em:
+## 📸 Demonstração
+
+### Página inicial
+
+![Página inicial do site da Lótus](assets/home.png)
+
+### Quem somos
+
+![Página institucional da Lótus](assets/quem-somos.png)
+
+### Soluções
+
+![Página de soluções da Lótus](assets/solucoes.png)
+
+Acesse o site publicado:
 
 https://www.industrialotus.com/
 
