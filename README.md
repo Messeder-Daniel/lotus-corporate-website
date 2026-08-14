@@ -65,8 +65,6 @@ Este projeto representa, portanto, um dos primeiros passos dessa evolução.
 
 ## 📸 Demonstração
 
-## 📸 Demonstração
-
 ### Página inicial
 
 ![Página inicial do site da Lótus](assets/home.png)
